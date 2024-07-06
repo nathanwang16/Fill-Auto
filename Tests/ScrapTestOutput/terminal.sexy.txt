@@ -1,0 +1,241 @@
+<html lang="en"><head>
+    <title>terminal.sexy - Terminal Color Scheme Designer</title>
+    <meta name="description" content="Design, edit and share custom terminal
+    color schemes. Export them to a wide range of terminals, include Xresources
+    (urxvt, xterm, aterm, eterm, rxvt), iTerm2, Terminal.app, Termite,
+    Terminator, Konsole, Guake and many more.">
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-148FH8N2F2&amp;cx=c&amp;_slc=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/cdn-cgi/apps/head/0J6tyaXojOBisfLoyTSR2p4Hb4s.js"></script><link rel="stylesheet" href="css/main.css?v=0.4.0">
+    <script src="js/main.js?v=0.4.0"></script>
+  </head>
+  <body class="background-desktop"><div class="app" data-reactid=".0"><header class="header foreground-fg background-desktop" data-reactid=".0.0"><h1 class="foreground-3" data-reactid=".0.0.0">terminal.sexy</h1><div class="sections" data-reactid=".0.0.1"><div class="section" data-reactid=".0.0.1.0"><span data-reactid=".0.0.1.0.0">About</span></div><div class="section" data-reactid=".0.0.1.1"><span data-reactid=".0.0.1.1.0">Open Window</span><ul class="background-desktop" data-reactid=".0.0.1.1.1"><li data-reactid=".0.0.1.1.1.0">Editor</li><li data-reactid=".0.0.1.1.1.1">Color Picker</li><hr class="background-subtle" data-reactid=".0.0.1.1.1.2"><li data-reactid=".0.0.1.1.1.3">Template Browser</li><li data-reactid=".0.0.1.1.1.4">Scheme Browser</li><hr class="background-subtle" data-reactid=".0.0.1.1.1.5"><li data-reactid=".0.0.1.1.1.6">Save Scheme</li><li data-reactid=".0.0.1.1.1.7">Import Scheme</li><li data-reactid=".0.0.1.1.1.8">Export Scheme</li><hr class="background-subtle" data-reactid=".0.0.1.1.1.9"><li data-reactid=".0.0.1.1.1.a">Import Template</li><hr class="background-subtle" data-reactid=".0.0.1.1.1.b"><li data-reactid=".0.0.1.1.1.c">Settings</li><li data-reactid=".0.0.1.1.1.d">Randomiser</li></ul></div><div class="section" data-reactid=".0.0.1.2"><span data-reactid=".0.0.1.2.0">Workspace Layout</span><ul class="background-desktop" data-reactid=".0.0.1.2.1"><li data-reactid=".0.0.1.2.1.0">Reset Layout</li></ul></div></div></header><div class="layout-container" data-reactid=".0.1"><div class="lm_goldenlayout lm_item lm_root" style="width: 1920px; height: 1025px;"><div class="lm_item lm_row" style="width: 1920px; height: 1025px;"><div class="lm_item lm_stack" style="width: 383px; height: 1025px;"><div class="lm_header" style="display: block; height: 25px;"><ul class="lm_tabs"><li class="lm_tab lm_active" title="Editor"><i class="lm_left"></i><span class="lm_title">Editor</span><div class="lm_close_tab" style="display: block;"></div><i class="lm_right"></i></li><li class="lm_tab" title="Settings"><i class="lm_left"></i><span class="lm_title">Settings</span><div class="lm_close_tab" style="display: block;"></div><i class="lm_right"></i></li></ul><ul class="lm_controls"><li class="lm_tabdropdown" title="additional tabs" style="display: none;"></li><li class="lm_close" title="close" style="display: list-item;"></li></ul><ul class="lm_tabdropdown_list" style="display: none;"></ul></div><div class="lm_items" style="width: 383px; height: 1000px;"><div class="lm_item_container" style="width: 383px; height: 1000px; display: block;"><div class="lm_content" style="width: 383px; height: 1000px;"><div class="editor" data-reactid=".1"><div class="palette" data-reactid=".1.0"><div class="block dark" data-reactid=".1.0.$background"><input class="hidden" data-reactid=".1.0.$background.0"><div class="color background-bg" data-reactid=".1.0.$background.1"><div class="label" data-reactid=".1.0.$background.1.0">bg</div><div class="hex" data-reactid=".1.0.$background.1.1">#1d1f21</div></div></div><div class="block light" data-reactid=".1.0.$foreground"><input class="hidden" data-reactid=".1.0.$foreground.0"><div class="color background-fg" data-reactid=".1.0.$foreground.1"><div class="label" data-reactid=".1.0.$foreground.1.0">fg</div><div class="hex" data-reactid=".1.0.$foreground.1.1">#c5c8c6</div></div></div><div class="block dark" data-reactid=".1.0.$0"><input class="hidden" data-reactid=".1.0.$0.0"><div class="color background-0" data-reactid=".1.0.$0.1"><div class="label" data-reactid=".1.0.$0.1.0">0</div><div class="hex" data-reactid=".1.0.$0.1.1">#282a2e</div></div></div><div class="block dark" data-reactid=".1.0.$8"><input class="hidden" data-reactid=".1.0.$8.0"><div class="color background-8" data-reactid=".1.0.$8.1"><div class="label" data-reactid=".1.0.$8.1.0">8</div><div class="hex" data-reactid=".1.0.$8.1.1">#373b41</div></div></div><div class="block dark" data-reactid=".1.0.$1"><input class="hidden" data-reactid=".1.0.$1.0"><div class="color background-1" data-reactid=".1.0.$1.1"><div class="label" data-reactid=".1.0.$1.1.0">1</div><div class="hex" data-reactid=".1.0.$1.1.1">#a54242</div></div></div><div class="block light" data-reactid=".1.0.$9"><input class="hidden" data-reactid=".1.0.$9.0"><div class="color background-9" data-reactid=".1.0.$9.1"><div class="label" data-reactid=".1.0.$9.1.0">9</div><div class="hex" data-reactid=".1.0.$9.1.1">#cc6666</div></div></div><div class="block light" data-reactid=".1.0.$2"><input class="hidden" data-reactid=".1.0.$2.0"><div class="color background-2" data-reactid=".1.0.$2.1"><div class="label" data-reactid=".1.0.$2.1.0">2</div><div class="hex" data-reactid=".1.0.$2.1.1">#8c9440</div></div></div><div class="block light" data-reactid=".1.0.$10"><input class="hidden" data-reactid=".1.0.$10.0"><div class="color background-10" data-reactid=".1.0.$10.1"><div class="label" data-reactid=".1.0.$10.1.0">10</div><div class="hex" data-reactid=".1.0.$10.1.1">#b5bd68</div></div></div><div class="block light" data-reactid=".1.0.$3"><input class="hidden" data-reactid=".1.0.$3.0"><div class="color background-3" data-reactid=".1.0.$3.1"><div class="label" data-reactid=".1.0.$3.1.0">3</div><div class="hex" data-reactid=".1.0.$3.1.1">#de935f</div></div></div><div class="block light" data-reactid=".1.0.$11"><input class="hidden" data-reactid=".1.0.$11.0"><div class="color background-11" data-reactid=".1.0.$11.1"><div class="label" data-reactid=".1.0.$11.1.0">11</div><div class="hex" data-reactid=".1.0.$11.1.1">#f0c674</div></div></div><div class="block dark" data-reactid=".1.0.$4"><input class="hidden" data-reactid=".1.0.$4.0"><div class="color background-4" data-reactid=".1.0.$4.1"><div class="label" data-reactid=".1.0.$4.1.0">4</div><div class="hex" data-reactid=".1.0.$4.1.1">#5f819d</div></div></div><div class="block light" data-reactid=".1.0.$12"><input class="hidden" data-reactid=".1.0.$12.0"><div class="color background-12" data-reactid=".1.0.$12.1"><div class="label" data-reactid=".1.0.$12.1.0">12</div><div class="hex" data-reactid=".1.0.$12.1.1">#81a2be</div></div></div><div class="block dark" data-reactid=".1.0.$5"><input class="hidden" data-reactid=".1.0.$5.0"><div class="color background-5" data-reactid=".1.0.$5.1"><div class="label" data-reactid=".1.0.$5.1.0">5</div><div class="hex" data-reactid=".1.0.$5.1.1">#85678f</div></div></div><div class="block light" data-reactid=".1.0.$13"><input class="hidden" data-reactid=".1.0.$13.0"><div class="color background-13" data-reactid=".1.0.$13.1"><div class="label" data-reactid=".1.0.$13.1.0">13</div><div class="hex" data-reactid=".1.0.$13.1.1">#b294bb</div></div></div><div class="block dark" data-reactid=".1.0.$6"><input class="hidden" data-reactid=".1.0.$6.0"><div class="color background-6" data-reactid=".1.0.$6.1"><div class="label" data-reactid=".1.0.$6.1.0">6</div><div class="hex" data-reactid=".1.0.$6.1.1">#5e8d87</div></div></div><div class="block light" data-reactid=".1.0.$14"><input class="hidden" data-reactid=".1.0.$14.0"><div class="color background-14" data-reactid=".1.0.$14.1"><div class="label" data-reactid=".1.0.$14.1.0">14</div><div class="hex" data-reactid=".1.0.$14.1.1">#8abeb7</div></div></div><div class="block dark" data-reactid=".1.0.$7"><input class="hidden" data-reactid=".1.0.$7.0"><div class="color background-7" data-reactid=".1.0.$7.1"><div class="label" data-reactid=".1.0.$7.1.0">7</div><div class="hex" data-reactid=".1.0.$7.1.1">#707880</div></div></div><div class="block light" data-reactid=".1.0.$15"><input class="hidden" data-reactid=".1.0.$15.0"><div class="color background-15" data-reactid=".1.0.$15.1"><div class="label" data-reactid=".1.0.$15.1.0">15</div><div class="hex" data-reactid=".1.0.$15.1.1">#c5c8c6</div></div></div></div></div></div></div><div class="lm_item_container" style="width: 383px; height: 1000px; display: none;"><div class="lm_content"><div class="settings" data-reactid=".2"><h4 data-reactid=".2.0">Font</h4><div class="control" data-reactid=".2.1"><label class="foreground-subtle" data-reactid=".2.1.0">Font Name</label><input type="text" value="Droid Sans Mono" data-reactid=".2.1.1"></div><div class="control" data-reactid=".2.2"><label class="foreground-subtle" data-reactid=".2.2.0">Font Size</label><input type="text" placeholder="14px" value="14px" data-reactid=".2.2.1"></div><div class="control" data-reactid=".2.3"><label class="foreground-subtle" data-reactid=".2.3.0">Line Height</label><input type="text" placeholder="21px" value="21px" data-reactid=".2.3.1"></div><div class="control" title="Dowload the font from Google Web Fonts" data-reactid=".2.4"><label class="foreground-subtle" data-reactid=".2.4.0">Web Font</label><span class="checkbox" data-reactid=".2.4.1"><input type="checkbox" checked="" data-reactid=".2.4.1.0"><span data-reactid=".2.4.1.1"></span></span></div><h4 data-reactid=".2.5">Color Picker</h4><div class="control" title="How often to update the stylesheet when using the colorpicker" data-reactid=".2.6"><label class="foreground-subtle" data-reactid=".2.6.0">Throttle (ms)</label><input type="text" value="100" data-reactid=".2.6.1"></div><button type="button" class="button" data-reactid=".2.7">Save</button></div></div></div></div></div><div class="lm_splitter lm_horizontal" style="width: 5px;"><div class="lm_drag_handle"></div></div><div class="lm_item lm_column" style="width: 668px; height: 1025px;"><div class="lm_item lm_stack" style="width: 668px; height: 510px;"><div class="lm_header" style="display: block; height: 25px;"><ul class="lm_tabs"><li class="lm_tab lm_active" title="Color Picker"><i class="lm_left"></i><span class="lm_title">Color Picker</span><div class="lm_close_tab" style="display: block;"></div><i class="lm_right"></i></li><li class="lm_tab" title="Randomiser"><i class="lm_left"></i><span class="lm_title">Randomiser</span><div class="lm_close_tab" style="display: block;"></div><i class="lm_right"></i></li></ul><ul class="lm_controls"><li class="lm_tabdropdown" title="additional tabs" style="display: none;"></li><li class="lm_close" title="close" style="display: list-item;"></li></ul><ul class="lm_tabdropdown_list" style="display: none;"></ul></div><div class="lm_items" style="width: 668px; height: 485px;"><div class="lm_item_container" style="width: 668px; height: 485px; display: block;"><div class="lm_content" style="width: 668px; height: 485px;"><div class="colorpicker" data-reactid=".3"><div class="light-slider" data-reactid=".3.0"><div class="slider vertical" data-reactid=".3.0.0"><div class="track" data-reactid=".3.0.0.0"></div><div class="pointer" style="bottom:0%;" data-reactid=".3.0.0.1"></div></div></div><div class="sat-slider" data-reactid=".3.1"><div class="slider horizontal" data-reactid=".3.1.0"><div class="track" data-reactid=".3.1.0.0"></div><div class="pointer" style="left:0%;" data-reactid=".3.1.0.1"></div></div></div><div class="hue-slider" data-reactid=".3.2"><div class="slider vertical" data-reactid=".3.2.0"><div class="track" data-reactid=".3.2.0.0"></div><div class="pointer" style="bottom:0%;" data-reactid=".3.2.0.1"></div></div></div><div class="map dark" data-reactid=".3.3"><div class="background" style="background-color:#ff0000;" data-reactid=".3.3.0"></div><div class="pointer" style="left:0%;bottom:0%;" data-reactid=".3.3.1"></div></div><div class="details" data-reactid=".3.4"><ul class="hex" data-reactid=".3.4.0"><li data-reactid=".3.4.0.0"><label data-reactid=".3.4.0.0.0">#</label><input value="" data-reactid=".3.4.0.0.1"></li></ul><ul class="rgb" data-reactid=".3.4.1"><li data-reactid=".3.4.1.0"><label data-reactid=".3.4.1.0.0">R:</label><input value="" data-reactid=".3.4.1.0.1"></li><li data-reactid=".3.4.1.1"><label data-reactid=".3.4.1.1.0">G:</label><input value="" data-reactid=".3.4.1.1.1"></li><li data-reactid=".3.4.1.2"><label data-reactid=".3.4.1.2.0">B:</label><input value="" data-reactid=".3.4.1.2.1"></li></ul><ul class="hsv" data-reactid=".3.4.2"><li data-reactid=".3.4.2.0"><label data-reactid=".3.4.2.0.0">H:</label><input value="" data-reactid=".3.4.2.0.1"></li><li data-reactid=".3.4.2.1"><label data-reactid=".3.4.2.1.0">S:</label><input value="" data-reactid=".3.4.2.1.1"></li><li data-reactid=".3.4.2.2"><label data-reactid=".3.4.2.2.0">B:</label><input value="" data-reactid=".3.4.2.2.1"></li></ul></div><div class="sample" data-reactid=".3.5"><div class="current" style="background:#000000;" data-reactid=".3.5.0"></div><div class="origin" style="background:#000000;" data-reactid=".3.5.1"></div></div></div></div></div><div class="lm_item_container" style="width: 668px; height: 485px; display: none;"><div class="lm_content"><div class="random" data-reactid=".4"><p data-reactid=".4.0">Randomly generate a color scheme.</p><p data-reactid=".4.1"><span data-reactid=".4.1.0">Based on the </span><a href="http://www.boronine.com/husl/syntax" target="_blank" data-reactid=".4.1.1">HUSL Random Syntax Highlighting Generator</a><span data-reactid=".4.1.2"> by </span><a href="https://github.com/boronine" target="_blank" data-reactid=".4.1.3">Boronine</a><span data-reactid=".4.1.4">.</span></p><p data-reactid=".4.2">Note: this will replace all the colors in your current scheme.</p><button type="button" class="button" data-reactid=".4.3">Generate</button></div></div></div></div></div><div class="lm_splitter lm_vertical" style="height: 5px;"><div class="lm_drag_handle"></div></div><div class="lm_item lm_stack" style="width: 668px; height: 510px;"><div class="lm_header" style="display: block; height: 25px;"><ul class="lm_tabs"><li class="lm_tab lm_active" title="Import"><i class="lm_left"></i><span class="lm_title">Import</span><div class="lm_close_tab" style="display: block;"></div><i class="lm_right"></i></li><li class="lm_tab" title="Export"><i class="lm_left"></i><span class="lm_title">Export</span><div class="lm_close_tab" style="display: block;"></div><i class="lm_right"></i></li><li class="lm_tab" title="Scheme Browser"><i class="lm_left"></i><span class="lm_title">Scheme Browser</span><div class="lm_close_tab" style="display: block;"></div><i class="lm_right"></i></li><li class="lm_tab" title="Save Scheme"><i class="lm_left"></i><span class="lm_title">Save Scheme</span><div class="lm_close_tab" style="display: block;"></div><i class="lm_right"></i></li></ul><ul class="lm_controls"><li class="lm_tabdropdown" title="additional tabs" style="display: none;"></li><li class="lm_close" title="close" style="display: list-item;"></li></ul><ul class="lm_tabdropdown_list" style="display: none;"></ul></div><div class="lm_items" style="width: 668px; height: 485px;"><div class="lm_item_container" style="width: 668px; height: 485px; display: block;"><div class="lm_content" style="width: 668px; height: 485px;"><div class="import" data-reactid=".5"><div class="control" data-reactid=".5.0"><label data-reactid=".5.0.0">Format:</label><select data-reactid=".5.0.1"><option value="iterm" data-reactid=".5.0.1.0">iTerm2</option><option value="termite" data-reactid=".5.0.1.1">Termite</option><option value="terminalapp" data-reactid=".5.0.1.2">Terminal.app</option><option value="xresources" data-reactid=".5.0.1.3">Xresources</option></select></div><textarea spellcheck="false" class="background-bg" data-reactid=".5.1"></textarea><div class="buttons" data-reactid=".5.2"><button type="button" class="button button-import" data-reactid=".5.2.0">Import</button></div></div></div></div><div class="lm_item_container" style="width: 668px; height: 485px; display: none;"><div class="lm_content"><div class="export" data-reactid=".6"><div class="control" data-reactid=".6.0"><label data-reactid=".6.0.0">Format:</label><select data-reactid=".6.0.1"><option value="alacritty" data-reactid=".6.0.1.0">Alacritty</option><option value="chromeshell" data-reactid=".6.0.1.1">Chrome Secure Shell</option><option value="gnome" data-reactid=".6.0.1.2">Gnome Terminal</option><option value="guake" data-reactid=".6.0.1.3">Guake</option><option value="iterm" data-reactid=".6.0.1.4">iTerm2</option><option value="konsole" data-reactid=".6.0.1.5">Konsole</option><option value="linux" data-reactid=".6.0.1.6">Linux console</option><option value="mintty" data-reactid=".6.0.1.7">MinTTY</option><option value="putty" data-reactid=".6.0.1.8">Putty</option><option value="st" data-reactid=".6.0.1.9">Simple Terminal</option><option value="terminalapp" data-reactid=".6.0.1.a">Terminal.app</option><option value="terminator" data-reactid=".6.0.1.b">Terminator</option><option value="termite" data-reactid=".6.0.1.c">Termite</option><option value="xfce" data-reactid=".6.0.1.d">XFCE4 Terminal</option><option value="xshell" data-reactid=".6.0.1.e">Xshell</option><option value="xresources" data-reactid=".6.0.1.f">Xresources</option><option value="" data-reactid=".6.0.1.g">-- OTHER --</option><option value="textmate" data-reactid=".6.0.1.h">Sublime Text (experimental)</option><option value="json" data-reactid=".6.0.1.i">JSON Scheme</option></select></div><textarea readonly="" spellcheck="false" class="background-bg" data-reactid=".6.1"></textarea><div class="buttons" data-reactid=".6.2"><button type="button" class="button button-export" data-reactid=".6.2.0">Export</button><button type="button" class="button button-download" data-reactid=".6.2.1">Download</button></div></div></div></div><div class="lm_item_container" style="width: 668px; height: 485px; display: none;"><div class="lm_content"><div tabindex="-1" class="ranger" data-reactid=".7"><div class="pane-container" data-reactid=".7.0"><div class="pane" data-reactid=".7.0.$/"><div class="item-list" data-reactid=".7.0.$/.0"><div class="directory active" data-reactid=".7.0.$/.0.$0">base16</div><div class="directory" data-reactid=".7.0.$/.0.$1">collection</div><div class="directory" data-reactid=".7.0.$/.0.$2">xcolors.net</div></div></div><div class="pane" data-reactid=".7.0.$/base16/"><div class="item-list" data-reactid=".7.0.$/base16/.0"><div class="file" data-reactid=".7.0.$/base16/.0.$0">3024.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$1">3024.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$2">ashes.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$3">ashes.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$4">atelierdune.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$5">atelierdune.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$6">atelierforest.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$7">atelierforest.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$8">atelierheath.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$9">atelierheath.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$10">atelierlakeside.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$11">atelierlakeside.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$12">atelierseaside.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$13">atelierseaside.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$14">bespin.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$15">bespin.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$16">brewer.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$17">brewer.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$18">chalk.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$19">chalk.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$20">codeschool.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$21">codeschool.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$22">default.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$23">default.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$24">eighties.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$25">eighties.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$26">embers.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$27">embers.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$28">google.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$29">google.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$30">grayscale.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$31">grayscale.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$32">greenscreen.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$33">greenscreen.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$34">isotope.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$35">isotope.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$36">londontube.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$37">londontube.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$38">marrakesh.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$39">marrakesh.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$40">mocha.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$41">mocha.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$42">monokai.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$43">monokai.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$44">ocean.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$45">ocean.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$46">paraiso.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$47">paraiso.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$48">railscasts.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$49">railscasts.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$50">shapeshifter.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$51">shapeshifter.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$52">solarized.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$53">solarized.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$54">tomorrow.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$55">tomorrow.light</div><div class="file" data-reactid=".7.0.$/base16/.0.$56">twilight.dark</div><div class="file" data-reactid=".7.0.$/base16/.0.$57">twilight.light</div></div></div></div><div class="status" data-reactid=".7.1">/base16/</div><input type="text" data-reactid=".7.2"></div></div></div><div class="lm_item_container" style="width: 668px; height: 485px; display: none;"><div class="lm_content"><div class="save" data-reactid=".8"><div class="control" data-reactid=".8.0"><label data-reactid=".8.0.0">Path:</label><input type="text" placeholder="/my-schemes/magical" data-reactid=".8.0.1"></div><div class="control" data-reactid=".8.1"><label data-reactid=".8.1.0">Author:</label><input type="text" placeholder="John Smith" data-reactid=".8.1.1"></div><div class="buttons" data-reactid=".8.2"><button type="button" class="button button-export" data-reactid=".8.2.0">Save</button></div></div></div></div></div></div></div><div class="lm_splitter lm_horizontal" style="width: 5px;"><div class="lm_drag_handle"></div></div><div class="lm_item lm_column" style="width: 859px; height: 1025px;"><div class="lm_item lm_stack" style="width: 859px; height: 510px;"><div class="lm_header" style="display: block; height: 25px;"><ul class="lm_tabs"><li class="lm_tab lm_active" title="Template: /vim/hybrid/javascript"><i class="lm_left"></i><span class="lm_title">Template: /vim/hybrid/javascript</span><div class="lm_close_tab" style="display: block;"></div><i class="lm_right"></i></li></ul><ul class="lm_controls"><li class="lm_tabdropdown" title="additional tabs" style="display: none;"></li><li class="lm_close" title="close" style="display: list-item;"></li></ul><ul class="lm_tabdropdown_list" style="display: none;"></ul></div><div class="lm_items" style="width: 859px; height: 485px;"><div class="lm_item_container" style="width: 859px; height: 485px; display: block;"><div class="lm_content" style="width: 859px; height: 485px;"><div class="template" data-reactid=".9"><pre class="text" data-reactid=".9.0"><span class="foreground-8">  1 </span><span class="foreground-3">var</span><span class="foreground-15"> _ </span><span class="foreground-14">=</span><span class="foreground-15"> require(</span><span class="foreground-10">'underscore'</span><span class="foreground-15">);</span>
+<span class="foreground-8">  2 </span><span class="foreground-3">var</span><span class="foreground-15"> TransformStream </span><span class="foreground-14">=</span><span class="foreground-15"> require(</span><span class="foreground-10">'stream'</span><span class="foreground-15">).Transform;</span>
+<span class="foreground-8">  3 </span>
+<span class="foreground-8">  4 </span><span class="foreground-3">var</span><span class="foreground-15"> tokenStream </span><span class="foreground-14">=</span><span class="foreground-15"> </span><span class="foreground-3">function</span><span class="foreground-15"> () {</span>
+<span class="foreground-8">  5 </span><span class="foreground-15">  </span><span class="foreground-3">var</span><span class="foreground-15"> token </span><span class="foreground-14">=</span><span class="foreground-15"> </span><span class="foreground-14">new</span><span class="foreground-15"> Token();</span>
+<span class="foreground-8">  6 </span><span class="foreground-15">  </span><span class="foreground-3">var</span><span class="foreground-15"> stream </span><span class="foreground-14">=</span><span class="foreground-15"> TransformStream({ objectMode: </span><span class="foreground-9">true</span><span class="foreground-15"> });</span>
+<span class="foreground-8">  7 </span>
+<span class="foreground-8">  8 </span><span class="foreground-15">  stream._transform </span><span class="foreground-14">=</span><span class="foreground-15"> </span><span class="foreground-3">function</span><span class="foreground-15"> (chunk, encoding, done) {</span>
+<span class="foreground-8">  9 </span><span class="foreground-15">    </span><span class="foreground-3">var</span><span class="foreground-15"> output </span><span class="foreground-14">=</span><span class="foreground-15"> token.write(chunk);</span>
+<span class="foreground-8"> 10 </span><span class="foreground-15">    _.each(output, stream.push, stream);</span>
+<span class="foreground-8"> 11 </span><span class="foreground-15">    done();</span>
+<span class="foreground-8"> 12 </span><span class="foreground-15">  };</span>
+<span class="foreground-8"> 13 </span>
+<span class="foreground-8"> 14 </span><span class="foreground-15">  </span><span class="foreground-12">return</span><span class="foreground-15"> stream;</span>
+<span class="foreground-8"> 15 </span><span class="foreground-15">};</span>
+<span class="foreground-8"> 16 </span>
+<span class="foreground-8"> 17 </span><span class="foreground-3">var</span><span class="foreground-15"> Token </span><span class="foreground-14">=</span><span class="foreground-15"> </span><span class="foreground-3">function</span><span class="foreground-15"> (stream) {</span>
+<span class="foreground-8"> 18 </span><span class="foreground-15">  </span><span class="foreground-10">this</span><span class="foreground-15">.tokens </span><span class="foreground-14">=</span><span class="foreground-15"> [</span>
+<span class="foreground-8"> 19 </span><span class="foreground-7">    // SGR escape codes</span>
+<span class="foreground-8"> 20 </span><span class="foreground-15">    [ </span><span class="foreground-10">/^\x1b\[(?:\d{0,3};?)+m/</span><span class="foreground-15">, </span><span class="foreground-10">this</span><span class="foreground-15">.replaceAnsi ],</span>
+<span class="foreground-8"> 21 </span>
+<span class="foreground-8"> 22 </span><span class="foreground-7">    // All other escape codes</span>
+<span class="foreground-8"> 23 </span><span class="foreground-15">    [ </span><span class="foreground-10">/^\x1b\[</span><span class="foreground-9">[^@-~]</span><span class="foreground-10">*</span><span class="foreground-9">[@-~]</span><span class="foreground-10">/</span><span class="foreground-15">, </span><span class="foreground-10">this</span><span class="foreground-15">.replaceOtherAnsi ],</span>
+<span class="foreground-8"> 24 </span>
+<span class="foreground-8"> 25 </span><span class="foreground-7">    // Replace ^[ chars</span>
+<span class="foreground-8"> 26 </span><span class="foreground-15">    [ </span><span class="foreground-10">/^\x1b/</span><span class="foreground-15">, </span><span class="foreground-10">this</span><span class="foreground-15">.replaceEscape ],</span>
+<span class="foreground-8"> 27 </span>
+<span class="foreground-8"> 28 </span><span class="foreground-7">    // Keep actual text</span>
+<span class="foreground-8"> 29 </span><span class="foreground-15">    [ </span><span class="foreground-10">/^(</span><span class="foreground-9">[^\x1b]</span><span class="foreground-10">+)/m</span><span class="foreground-15">, </span><span class="foreground-10">this</span><span class="foreground-15">.replaceText ]</span>
+<span class="foreground-8"> 30 </span><span class="foreground-15">  ];</span>
+<span class="foreground-8"> 31 </span><span class="foreground-15">};</span>
+<span class="foreground-8"> 32 </span>
+<span class="foreground-8"> 33 </span><span class="foreground-15">_.extend(Token.</span><span class="foreground-10">prototype</span><span class="foreground-15">, {</span>
+<span class="foreground-8"> 34 </span>
+<span class="foreground-8"> 35 </span><span class="foreground-15">  getNumbers: </span><span class="foreground-3">function</span><span class="foreground-15"> (string) {</span>
+<span class="foreground-8"> 36 </span><span class="foreground-15">    </span><span class="foreground-12">return</span><span class="foreground-15"> _.map(string.match(</span><span class="foreground-10">/\d+/g</span><span class="foreground-15">), </span><span class="foreground-3">function</span><span class="foreground-15"> (number) {</span>
+<span class="foreground-8"> 37 </span><span class="foreground-15">      </span><span class="foreground-12">return</span><span class="foreground-15"> </span><span class="foreground-10">parseInt</span><span class="foreground-15">(number, </span><span class="foreground-9">10</span><span class="foreground-15">);</span>
+<span class="foreground-8"> 38 </span><span class="foreground-15">    });</span>
+<span class="foreground-8"> 39 </span><span class="foreground-15">  },</span>
+<span class="foreground-8"> 40 </span>
+<span class="foreground-8"> 41 </span><span class="foreground-15">  replaceAnsi: </span><span class="foreground-3">function</span><span class="foreground-15"> (codes) {</span>
+<span class="foreground-8"> 42 </span><span class="foreground-15">    codes </span><span class="foreground-14">=</span><span class="foreground-15"> </span><span class="foreground-10">this</span><span class="foreground-15">.getNumbers(codes);</span>
+<span class="foreground-8"> 43 </span><span class="foreground-15">    </span><span class="foreground-12">if</span><span class="foreground-15"> (</span><span class="foreground-14">!</span><span class="foreground-15"> codes.length) codes </span><span class="foreground-14">=</span><span class="foreground-15"> [</span><span class="foreground-9">0</span><span class="foreground-15">];</span>
+<span class="foreground-8"> 44 </span><span class="foreground-15">    </span><span class="foreground-12">return</span><span class="foreground-15"> { type: </span><span class="foreground-10">'ansi'</span><span class="foreground-15">, value: codes };</span>
+<span class="foreground-8"> 45 </span><span class="foreground-15">  },</span>
+<span class="foreground-8"> 46 </span>
+<span class="foreground-8"> 47 </span><span class="foreground-15">  replaceOtherAnsi: </span><span class="foreground-3">function</span><span class="foreground-15"> (codes) {</span>
+<span class="foreground-8"> 48 </span><span class="foreground-15">    </span><span class="foreground-12">return</span><span class="foreground-15"> { type: </span><span class="foreground-10">'ansi-other'</span><span class="foreground-15">, value: codes };</span>
+<span class="foreground-8"> 49 </span><span class="foreground-15">  },</span>
+<span class="foreground-8"> 50 </span>
+<span class="foreground-8"> 51 </span><span class="foreground-15">  replaceText: </span><span class="foreground-3">function</span><span class="foreground-15"> (text) {</span>
+<span class="foreground-8"> 52 </span><span class="foreground-15">    </span><span class="foreground-12">return</span><span class="foreground-15"> { type: </span><span class="foreground-10">'text'</span><span class="foreground-15">, value: text };</span>
+<span class="foreground-8"> 53 </span><span class="foreground-15">  },</span>
+<span class="foreground-8"> 54 </span>
+<span class="foreground-8"> 55 </span><span class="foreground-15">  replaceEscape: </span><span class="foreground-3">function</span><span class="foreground-15"> () {</span>
+<span class="foreground-8"> 56 </span><span class="foreground-15">     </span><span class="foreground-12">return</span><span class="foreground-15"> { type: </span><span class="foreground-10">'text'</span><span class="foreground-15">, value: </span><span class="foreground-10">'ESC'</span><span class="foreground-15"> };</span>
+<span class="foreground-8"> 57 </span><span class="foreground-15">  },</span>
+<span class="foreground-8"> 58 </span>
+<span class="foreground-8"> 59 </span><span class="foreground-15">  process: </span><span class="foreground-3">function</span><span class="foreground-15"> (fn, output) {</span>
+<span class="foreground-8"> 60 </span><span class="foreground-15">    </span><span class="foreground-3">var</span><span class="foreground-15"> self </span><span class="foreground-14">=</span><span class="foreground-15"> </span><span class="foreground-10">this</span><span class="foreground-15">;</span>
+<span class="foreground-8"> 61 </span><span class="foreground-15">    </span><span class="foreground-12">return</span><span class="foreground-15"> </span><span class="foreground-3">function</span><span class="foreground-15"> (match) {</span>
+<span class="foreground-8"> 62 </span><span class="foreground-15">      output.push(fn.call(self, match));</span>
+<span class="foreground-8"> 63 </span><span class="foreground-15">      </span><span class="foreground-12">return</span><span class="foreground-15"> </span><span class="foreground-10">''</span><span class="foreground-15">;</span>
+<span class="foreground-8"> 64 </span><span class="foreground-15">    };</span>
+<span class="foreground-8"> 65 </span><span class="foreground-15">  },</span>
+<span class="foreground-8"> 66 </span>
+<span class="foreground-8"> 67 </span><span class="foreground-15">  write: </span><span class="foreground-3">function</span><span class="foreground-15"> (input) {</span>
+<span class="foreground-8"> 68 </span><span class="foreground-15">    </span><span class="foreground-3">var</span><span class="foreground-15"> output </span><span class="foreground-14">=</span><span class="foreground-15"> [];</span>
+<span class="foreground-8"> 69 </span><span class="foreground-15">    </span><span class="foreground-3">var</span><span class="foreground-15"> len;</span>
+<span class="foreground-8"> 70 </span>
+<span class="foreground-8"> 71 </span><span class="foreground-7">    // make sure it is not a buffer</span>
+<span class="foreground-8"> 72 </span><span class="foreground-15">    input </span><span class="foreground-14">=</span><span class="foreground-15"> input.toString();</span>
+<span class="foreground-8"> 73 </span>
+<span class="foreground-8"> 74 </span><span class="foreground-15">    </span><span class="foreground-12">while</span><span class="foreground-15"> ((len </span><span class="foreground-14">=</span><span class="foreground-15"> input.length) </span><span class="foreground-14">&gt;</span><span class="foreground-15"> </span><span class="foreground-9">0</span><span class="foreground-15">) {</span>
+<span class="foreground-8"> 75 </span>
+<span class="foreground-8"> 76 </span><span class="foreground-15">      forLoop:</span>
+<span class="foreground-8"> 77 </span><span class="foreground-15">      </span><span class="foreground-12">for</span><span class="foreground-15"> (</span><span class="foreground-3">var</span><span class="foreground-15"> i </span><span class="foreground-14">=</span><span class="foreground-15"> </span><span class="foreground-9">0</span><span class="foreground-15">; i </span><span class="foreground-14">&lt;</span><span class="foreground-15"> </span><span class="foreground-10">this</span><span class="foreground-15">.tokens.length; i</span><span class="foreground-14">++</span><span class="foreground-15">) {</span>
+<span class="foreground-8"> 78 </span>        <span class="foreground-3">var</span><span class="foreground-15"> token </span><span class="foreground-14">=</span><span class="foreground-15"> </span><span class="foreground-10">this</span><span class="foreground-15">.tokens[i];</span>
+<span class="foreground-8"> 79 </span>        <span class="foreground-12">if</span><span class="foreground-15"> (token[</span><span class="foreground-9">0</span><span class="foreground-15">].test(input)) {</span>
+<span class="foreground-8"> 80 </span>          <span class="foreground-15">input </span><span class="foreground-14">=</span><span class="foreground-15"> input.replace(token[</span><span class="foreground-9">0</span><span class="foreground-15">], </span><span class="foreground-10">this</span><span class="foreground-15">.process(token[</span><span class="foreground-9">1</span><span class="foreground-15">], output));</span>
+<span class="foreground-8"> 81 </span>          <span class="foreground-12">break</span><span class="foreground-15"> forLoop;</span>
+<span class="foreground-8"> 82 </span>        <span class="foreground-15">}</span>
+<span class="foreground-8"> 83 </span><span class="foreground-15">      }</span>
+<span class="foreground-8"> 84 </span>
+<span class="foreground-8"> 85 </span><span class="foreground-15">      </span><span class="foreground-12">if</span><span class="foreground-15"> (input.length </span><span class="foreground-14">===</span><span class="foreground-15"> len) </span><span class="foreground-12">break</span><span class="foreground-15">;</span>
+<span class="foreground-8"> 86 </span><span class="foreground-15">    }</span>
+<span class="foreground-8"> 87 </span>
+<span class="foreground-8"> 88 </span><span class="foreground-15">    </span><span class="foreground-12">return</span><span class="foreground-15"> output;</span>
+<span class="foreground-8"> 89 </span><span class="foreground-15">  }</span>
+<span class="foreground-8"> 90 </span><span class="foreground-15">});</span>
+<span class="foreground-8"> 91 </span>
+<span class="foreground-8"> 92 </span><span class="foreground-15">module.exports </span><span class="foreground-14">=</span><span class="foreground-15"> tokenStream;</span>
+<span class="foreground-8"> 93 </span><span class="foreground-15">module.exports.Token </span><span class="foreground-14">=</span><span class="foreground-15"> Token;</span>
+</pre><div class="status-bar background-desktop" data-reactid=".9.1"><div data-reactid=".9.1.0"><span data-reactid=".9.1.0.0">Background: </span><span data-reactid=".9.1.0.1">bg</span></div><div data-reactid=".9.1.1"><span data-reactid=".9.1.1.0">Foreground: </span><span data-reactid=".9.1.1.1">fg</span></div></div></div></div></div></div></div><div class="lm_splitter lm_vertical" style="height: 5px;"><div class="lm_drag_handle"></div></div><div class="lm_item lm_stack" style="width: 859px; height: 510px;"><div class="lm_header" style="display: block; height: 25px;"><ul class="lm_tabs"><li class="lm_tab lm_active" title="Template Browser"><i class="lm_left"></i><span class="lm_title">Template Browser</span><div class="lm_close_tab" style="display: block;"></div><i class="lm_right"></i></li><li class="lm_tab" title="Import Template"><i class="lm_left"></i><span class="lm_title">Import Template</span><div class="lm_close_tab" style="display: block;"></div><i class="lm_right"></i></li></ul><ul class="lm_controls"><li class="lm_tabdropdown" title="additional tabs" style="display: none;"></li><li class="lm_close" title="close" style="display: list-item;"></li></ul><ul class="lm_tabdropdown_list" style="display: none;"></ul></div><div class="lm_items" style="width: 859px; height: 485px;"><div class="lm_item_container" style="width: 859px; height: 485px; display: block;"><div class="lm_content" style="width: 859px; height: 485px;"><div tabindex="-1" class="ranger" data-reactid=".a"><div class="pane-container" data-reactid=".a.0"><div class="pane" data-reactid=".a.0.$/"><div class="item-list" data-reactid=".a.0.$/.0"><div class="directory active" data-reactid=".a.0.$/.0.$0">misc</div><div class="directory" data-reactid=".a.0.$/.0.$1">tig</div><div class="directory" data-reactid=".a.0.$/.0.$2">vim</div></div></div><div class="pane" data-reactid=".a.0.$/misc/"><div class="item-list" data-reactid=".a.0.$/misc/.0"><div class="file" data-reactid=".a.0.$/misc/.0.$0">columns</div><div class="file" data-reactid=".a.0.$/misc/.0.$1">rows</div></div></div></div><div class="status" data-reactid=".a.1">/misc/</div><input type="text" data-reactid=".a.2"></div></div></div><div class="lm_item_container" style="width: 859px; height: 485px; display: none;"><div class="lm_content"><div class="import-template" data-reactid=".b"><div class="control" data-reactid=".b.0"><label class="foreground-subtle" data-reactid=".b.0.0">Template Name:</label><input type="text" placeholder="/user/vim/js" data-reactid=".b.0.1"></div><div class="control" data-reactid=".b.1"><label class="foreground-subtle" data-reactid=".b.1.0">Tmux Output:</label><input type="file" data-reactid=".b.1.1"></div><div class="buttons" data-reactid=".b.2"><button type="button" class="button button-import" data-reactid=".b.2.0">Import</button></div></div></div></div></div></div></div></div></div></div><div class="sexy-stylesheet" data-reactid=".0.2"><style data-reactid=".0.2.0">.foreground-bg{color:#1d1f21 !important;}
+.background-bg{background:#1d1f21 !important;}
+
+.foreground-desktop {color:#161719 !important;}
+.background-desktop {background:#161719 !important;}
+
+.background-subtle {background:#35393c !important;}
+
+.layout-container {
+  border-top-color: #35393c
+}
+
+.lm_goldenlayout {
+  background: #35393c;
+}
+
+.lm_content {
+  background: #1d1f21;
+}
+
+.lm_tab {
+  background: #1d1f21
+}
+
+.ranger .pane-container,
+.ranger .pane {
+  border-color: #35393c;
+}
+
+.ranger .active {
+  background: #161719;
+  outline-color: #35393c !important;
+}
+
+.ranger.focus .active {
+  background: #35393c;
+}
+
+select, textarea, input, .checkbox span {
+  border-color: #35393c !important;
+}
+
+.button {
+  background: #35393c;
+  border-color: #35393c;
+}
+
+.button:hover {
+  background: #1d1f21;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #161719;
+}
+
+h4 {
+  border-color: #35393c
+}
+
+.colorpicker .sat-slider .track,
+.colorpicker .light-slider .track {
+  background: #35393c;
+}
+
+::-webkit-input-placeholder {
+   color: #35393c;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #35393c;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #35393c;
+}
+
+:-ms-input-placeholder {  
+   color: #35393c;
+}
+
+.colorpicker .slider .pointer {
+  background: undefined;
+}</style><style data-reactid=".0.2.1">.foreground-fg{color:#c5c8c6 !important;}
+.background-fg{background:#c5c8c6 !important;}
+
+.foreground-subtle {color:#9ea39f !important;}
+
+.lm_goldenlayout {
+  color: #c5c8c6;
+}
+
+.ranger .directory,
+.ranger .status {
+  color: #9ea39f;
+}
+
+textarea:focus, input:focus, button:focus, .checkbox input:focus + span {
+  border-color: #9ea39f !important;
+}
+
+.checkbox input:checked + span:after {
+  background: #9ea39f;
+}</style><style data-reactid=".0.2.2">.foreground-0{color:#282a2e !important;}
+.background-0{background:#282a2e !important;}</style><style data-reactid=".0.2.3">.foreground-1{color:#a54242 !important;}
+.background-1{background:#a54242 !important;}</style><style data-reactid=".0.2.4">.foreground-2{color:#8c9440 !important;}
+.background-2{background:#8c9440 !important;}
+
+.lm_splitter:hover {
+  background: #8c9440
+}
+
+h4 {
+  color: #8c9440
+}</style><style data-reactid=".0.2.5">.foreground-3{color:#de935f !important;}
+.background-3{background:#de935f !important;}</style><style data-reactid=".0.2.6">.foreground-4{color:#5f819d !important;}
+.background-4{background:#5f819d !important;}
+
+a {
+  color: #5f819d;
+}</style><style data-reactid=".0.2.7">.foreground-5{color:#85678f !important;}
+.background-5{background:#85678f !important;}</style><style data-reactid=".0.2.8">.foreground-6{color:#5e8d87 !important;}
+.background-6{background:#5e8d87 !important;}</style><style data-reactid=".0.2.9">.foreground-7{color:#707880 !important;}
+.background-7{background:#707880 !important;}</style><style data-reactid=".0.2.a">.bold .foreground-0, .foreground-0 .bold, .foreground-8{color:#373b41 !important;}
+.background-8{background:#373b41 !important;}</style><style data-reactid=".0.2.b">.bold .foreground-1, .foreground-1 .bold, .foreground-9{color:#cc6666 !important;}
+.background-9{background:#cc6666 !important;}</style><style data-reactid=".0.2.c">.bold .foreground-2, .foreground-2 .bold, .foreground-10{color:#b5bd68 !important;}
+.background-10{background:#b5bd68 !important;}</style><style data-reactid=".0.2.d">.bold .foreground-3, .foreground-3 .bold, .foreground-11{color:#f0c674 !important;}
+.background-11{background:#f0c674 !important;}</style><style data-reactid=".0.2.e">.bold .foreground-4, .foreground-4 .bold, .foreground-12{color:#81a2be !important;}
+.background-12{background:#81a2be !important;}</style><style data-reactid=".0.2.f">.bold .foreground-5, .foreground-5 .bold, .foreground-13{color:#b294bb !important;}
+.background-13{background:#b294bb !important;}</style><style data-reactid=".0.2.g">.bold .foreground-6, .foreground-6 .bold, .foreground-14{color:#8abeb7 !important;}
+.background-14{background:#8abeb7 !important;}</style><style data-reactid=".0.2.h">.bold .foreground-7, .foreground-7 .bold, .foreground-15{color:#c5c8c6 !important;}
+.background-15{background:#c5c8c6 !important;}
+</style><style data-reactid=".0.2.i">body, textarea, pre, h1, h2, h3, h4, h5, h6 {
+  font-family: Droid Sans Mono !important;
+  font-size: 14px !important;
+}
+
+pre {
+  line-height: 21px;
+}</style><link href="//fonts.googleapis.com/css?family=Droid%20Sans%20Mono:400" rel="stylesheet" type="text/css" data-reactid=".0.2.j"></div></div><div class="lm_dropTargetIndicator"><div class="lm_inner"></div></div><div class="lm_transition_indicator"></div></body></html>

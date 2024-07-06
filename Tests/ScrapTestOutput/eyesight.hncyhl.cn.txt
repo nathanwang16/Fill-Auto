@@ -1,0 +1,20 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>视力测量软件使用说明 </title>
+    <link href="/assets/image/logo.png" type="image/x-icon" rel="icon">
+    <link href="/assets/image/logo.png" type="image/x-icon" rel="shortcut icon">
+    <script async="" src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <script type="module" crossorigin="" src="/assets/index-73dbb314.js"></script>
+    <link rel="stylesheet" href="/assets/index-f075ff9c.css">
+  </head>
+  <body>
+    <div id="app" data-v-app=""><div class="main"><h1 id="eyetest" style="text-align: center;">Eye-Test</h1><div><p> Eye-Test是一款可安装于安卓手机的视力检查软件，便于使用者随时随地进行视力检测。该软件所显示的视标大小与标准对数视力表完全一致，检测方法也与常规视力检查相同。在自然光线良好的室内，将手机置于测试者5米处进行视力测试，屏幕上方显示的数字即为对应的五分制对数视力。经临床验证，该软件与医院内视力检测结果具有良好的一致性。 </p></div><div style="display: flex; flex-direction: column; align-items: center; align-content: center; text-align: center;"><div download="" class="button">下载 App</div></div><hr><h3 id="">简介</h3><p> Eye-Test 应用由王萧语制作，最初是一个小型项目，旨在实现在手机上进行标准对数视力测试的基本功能。 </p><ul><li><p>使用 App Inventor 平台设计应用</p></li><li><p>简单应用编程逻辑</p></li><li><p>Photoshop 制作E 字形图标</p></li></ul><p>他进行了以下验证和调整，将应用推广：</p><ul><li><p> 对比实验，使用随机方法比较手机测试与医院实际视力测验的结果，收集约300只眼睛的结果。使用统计方法（卡方检验，r-回归等）验证了手机测试与标准测试有较好相关性的假设。 </p></li><li><p>添加了历史记录功能</p></li><li><p>优化了用户友好界面</p></li><li><p> 这篇论文被<strong>中国小儿眼科与斜视学会第20次全国学术大会（CAPOS）</strong>接受 </p></li><li><p> 80% 完成的自动测试，利用深度学习（AI）的力量。测试者独自站在屏幕五米处，用手指指向 E 标志的方向，计算机视觉（Squeeze-Net）模块使用前置摄像头识别手指方向，从而实现自动测试功能。 </p><p> 请注意，该模块的预测准确率仍然低于0.8，这意味着该模块的用户体验将低于期望！ </p></li></ul><hr><h3 id="-1">手册</h3><p><span class="highlight">该应用仅适用于 Android 用户！ IOS 版本将在之后推出。</span></p><p> 下载应用后，一些用户可能会收到 Android 系统报告的警告。Eye-Test 应用仅使用相机进行 AI 模块识别功能，不侵犯用户隐私。由于应用可离线使用且没有信息上传在线，您可以放心选择… </p><p style="text-align: center;"><img src="/assets/1-ca89e4da.jpg" style="zoom: 50%;"></p><hr><p> 该应用提供两种测试方式：亲自测试和自动测试。这些测试是标准的对数视力测试。测试者必须站在屏幕5米远的地方。将屏幕亮度调到最大并水平放置于人的眼睛前。 </p><h3 id="-2">亲自测试</h3><p>另一名工作人员必须协助按下按钮以完成测试。</p><p style="text-align: center;"><img src="/assets/2-c6559f53.jpg" style="zoom: 50%;"></p><hr><h3 id="-3">自动测试</h3><p>测试是自动的，借助 AI 。</p><p style="text-align: center;"><img src="/assets/3-e64e3e3b.jpg" style="zoom: 50%;"></p><hr><h3 id="-4">历史页面</h3><p> 这个页面本地存储了测试结果以及日期。用户可以删除历史记录，只需按下目标历史记录，然后按下 <code>删除</code> 按钮即可。 </p><p style="text-align: center;"><img src="/assets/4-c30835ff.jpg" style="zoom: 50%;"><img src="/assets/5-c808c544.jpg" style="zoom: 50%;"></p></div></div>
+    <span id="busuanzi_container_page_pv" style="display: inline;">
+      当前下载 <span id="busuanzi_value_page_pv">994</span> 次
+    </span>
+    
+  
+
+</body></html>

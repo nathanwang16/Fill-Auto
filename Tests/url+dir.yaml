@@ -1,0 +1,4 @@
+# config.yaml
+url: "https://terminal.sexy"  # URL of the website to scrape
+output_dir: "/Users/wangxiaoyu/Desktop/Fill-Auto/Tests/ScrapTestOutput"  # Directory where output files will be saved
+webdriver_path: "/Users/wangxiaoyu/Desktop/Fill-Auto/Drivers/chromedriver_mac_arm64/chromedriver"  # Path to the ChromeDriver executable
